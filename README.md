@@ -1,6 +1,6 @@
 # PJKT_NET_K · Network Knight
 
-A personal release archive of my Network Knight senior design work. The application collects Windows events and Microsoft Defender and firewall observations, applies detection rules, and presents alerts with their supporting evidence in a local React dashboard. FastAPI serves the dashboard and SQLite stores the records on the monitored computer.
+Archive of application collects Windows events and Microsoft Defender and firewall observations, applies detection rules, and presents alerts with their supporting evidence in a local React dashboard. FastAPI serves the dashboard and SQLite stores the records on the monitored computer.
 
 ## Releases
 
