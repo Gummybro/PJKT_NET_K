@@ -1,0 +1,15 @@
+# Local dependencies and runtime evidence
+.venv/
+node_modules/
+backend/data/
+backend/tests/tmp*/
+__pycache__/
+*.py[cod]
+*.sqlite*
+*.db
+collector-key.txt
+.env
+.env.*
+!.env.example
+*.log
+*.pyc
